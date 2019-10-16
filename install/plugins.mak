@@ -67,7 +67,7 @@ BUNDLED_PLUGIN_VERSIONS = \
     com.electriccloud:EC-Tomcat:2.3.* \
     com.electriccloud:EC-Tutorials:1.0.* \
     com.electriccloud:EC-WebLogic:3.5.* \
-    com.electriccloud:EC-WebSphere:2.7.* \
+    com.electriccloud:EC-WebSphere:4.4.* \
     com.electriccloud:ECSCM-File:2.0.* \
     com.electriccloud:ECSCM-Git:3.11.* \
     com.electriccloud:ECSCM-Perforce:2.9.* \
