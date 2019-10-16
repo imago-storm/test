@@ -16,7 +16,7 @@ BUNDLED_PLUGIN_VERSIONS = \
     com.electriccloud:EC-ALM:1.2.* \
     com.electriccloud:EC-AgentManagement:1.4.* \
     com.electriccloud:EC-AmazonECS:1.1.* \
-    com.electriccloud:EC-Ansible:1.2.* \
+    com.electriccloud:EC-Ansible:1.3.* \
     com.electriccloud:EC-Artifact:1.1.* \
     com.electriccloud:EC-Artifactory:1.4.* \
     com.electriccloud:EC-Azure:1.1.* \
